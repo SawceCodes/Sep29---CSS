@@ -1,0 +1,61 @@
+/* General Body Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 40px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Headings */
+h1 {
+    color: #004d99;
+    text-align: center;
+    border-bottom: 2px solid #004d99;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #0066cc;
+}
+
+/* Paragraphs */
+p {
+    margin-bottom: 20px;
+}
+
+/* Lists */
+ul, ol {
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Table Styles */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #e6f2ff;
+    color: #333;
+    font-weight: bold;
+}
+
+/* Table Footer */
+tfoot {
+    font-weight: bold;
+    background-color: #f9f9f9;
+}
